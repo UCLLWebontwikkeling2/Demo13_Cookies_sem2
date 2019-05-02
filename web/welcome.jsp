@@ -19,6 +19,7 @@
         <p>This site offers you information about countries.
             To make sure you choose your ideal destination.</p>
         <p>
+            <p>Uw taal van de vorige pagina was </p>
             <a href="Servlet?command=somethingMore">Read some more stuff</a>.
         </p>
     </article>
